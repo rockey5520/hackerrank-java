@@ -5,10 +5,6 @@
     </a>
     <br>My solutions to HackerRank problems
 </p>
-```
-* [Interview Preparation Kit](#Interview Preparation Kit)
-```
-
 # Interview Preparation Kit
 
 |                          Challenge                           | Points |                           Solution                           |
