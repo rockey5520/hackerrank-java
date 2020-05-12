@@ -15,6 +15,6 @@
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/tree/master/interviewprepararionkit/warmupchallenges/RepeatedString) |
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/arrays/twoDArrayDS/Solution.java) |
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/arrays/leftrotation/Solution.java) |
-|                                                              |        |                                                              |
+| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   40   |                        Solution.java                         |
 |                                                              |        |                                                              |
 
