@@ -19,21 +19,14 @@ public class Solution {
     }
     Map<String, Integer> magazineMap;
     Map<String, Integer> noteMap;
-
     magazineMap = count(magazine);
     noteMap = count(note);
-    System.out.println(magazineMap.toString());
-    System.out.println(noteMap.toString());
 
     Set<String> strings = noteMap.keySet();
     for (String s : strings
     ) {
-      System.out.println(s);
-      System.out.println(magazineMap.get(s));
       if (magazineMap.containsKey(s)) {
-        if (noteMap.get(s) <= magazineMap.get(s)) {
-          continue;
-        } else {
+        if (!(noteMap.get(s) <= magazineMap.get(s))) {
           System.out.println("No");
           System.exit(0);
         }
