@@ -17,5 +17,5 @@
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/arrays/leftrotation/Solution.java) |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   40   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/arrays/newyearchaos/Solution.java) |
 | [MinimumSwaps2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   40   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/MinimumSwaps2/Solution.java) |
-|                                                              |        |                                                              |
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) |   60   |                        Solution.java                         |
 
