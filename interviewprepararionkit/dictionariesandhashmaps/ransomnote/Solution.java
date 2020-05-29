@@ -1,13 +1,9 @@
-package DictionariesandHashmaps.ransomnote;
+package dictionariesandhashmaps.ransomnote;
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.Map.Entry;
-import java.util.concurrent.*;
-import java.util.regex.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
 
 public class Solution {
 
