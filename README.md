@@ -34,7 +34,7 @@
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/diagonaldifference/Solution.java) |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/plusminus/Solution.java) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/staircase/Solution.java) |
-|                                                              |        |                                                              |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
