@@ -1,4 +1,4 @@
-package timconversion;
+package warmup.timconversion;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
