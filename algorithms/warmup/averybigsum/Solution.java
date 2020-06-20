@@ -6,14 +6,7 @@ import java.util.Arrays;
 public class Solution {
 
   static void aVeryBigSum(long[] ar) {
-
-    int sum = 0;
     System.out.println(Arrays.stream(ar).sum());
-    for (long s : ar
-    ) {
-      sum += s;
-    }
-    System.out.println(sum);
   }
 
   public static void main(String[] args) {
