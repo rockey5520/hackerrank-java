@@ -32,7 +32,7 @@
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/comparethetriplets/Solution.java) |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/averybigsum/Solution.java) |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/diagonaldifference/Solution.java) |
-|                                                              |        |                                                              |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/plusminus/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
