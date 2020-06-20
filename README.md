@@ -28,7 +28,7 @@
 
 |                          Challenge                           | Points |                           Solution                           |
 | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
-| [Simple array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/sockmerchant/Solution.java) |
+| [Simple array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/warmup/simplearraysum/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
