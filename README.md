@@ -24,3 +24,22 @@
 | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |   35   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/dictionariesandhashmaps/counttriplets/Solution.java) |
 | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |   40   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/dictionariesandhashmaps/frequencyqueries/Solution.java) |
 
+# Algorithms
+
+|                          Challenge                           | Points |                           Solution                           |
+| :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
+| [Simple array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/interviewprepararionkit/warmupchallenges/sockmerchant/Solution.java) |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+
