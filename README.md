@@ -38,7 +38,7 @@
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/tree/master/algorithms/warmup/timconversion) |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/gradingstudents/Solution.java) |
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/appleandorange/Solution.java) |
-|                                                              |        |                                                              |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) |   10   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
