@@ -50,7 +50,7 @@
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/electronicsshop/Solution.java) |
 | [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/catandmouse/Solution.java) |
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/formingamagicsquare/Solution.java) |
-|                                                              |        |                                                              |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
