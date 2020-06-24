@@ -43,7 +43,7 @@
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/tree/master/algorithms/implementation/breakingtherecords) |
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/birthdaychocolate/Solution.java) |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/divisiblesumpairs/Solution.java) |
-|                                                              |        |                                                              |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=next-challenge&h_v=zen) |   10   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
