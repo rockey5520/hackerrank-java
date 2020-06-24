@@ -45,4 +45,8 @@
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/divisiblesumpairs/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
 
