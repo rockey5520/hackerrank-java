@@ -48,5 +48,5 @@
 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/bonapp%C3%A9tit/Solution.java) |
 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/drawingbook/Solution.java) |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/electronicsshop/Solution.java) |
-|                                                              |        |                                                              |
+| [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=next-challenge&h_v=zen) |   10   |                        Solution.java                         |
 
