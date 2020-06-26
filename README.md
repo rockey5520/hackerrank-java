@@ -58,7 +58,7 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/angryprofessor/Solution.java) |
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/beautifuldayatthemovies/Solution.java) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/viraladvertising/Solution.java) |
-| [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) |   15   |                        Solution.java                         |
+| [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/savetheprisoner/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
