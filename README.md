@@ -59,7 +59,7 @@
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/beautifuldayatthemovies/Solution.java) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/viraladvertising/Solution.java) |
 | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/savetheprisoner/Solution.java) |
-|                                                              |        |                                                              |
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?h_r=next-challenge&h_v=zen) |   20   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 
