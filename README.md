@@ -61,5 +61,5 @@
 | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/savetheprisoner/Solution.java) |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/circulararrayrotation/Solution.java) |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/sequenceequation/Solution.java) |
-| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=next-challenge&h_v=zen) |   15   |                        Solution.java                         |
+| [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=next-challenge&h_v=zen) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/jumpingoncloudsrevisited/Solution.java) |
 
