@@ -56,7 +56,7 @@
 | [Design PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/designpdfviewer/Solution.java) |
 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/utopiantree/Solution.java) |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/angryprofessor/Solution.java) |
-|                                                              |        |                                                              |
+| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) |   15   |                        Solution.java                         |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
