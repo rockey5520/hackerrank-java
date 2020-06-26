@@ -66,6 +66,6 @@
 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/extralongfactorials/Solution.java) |
 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/appendanddelete/Solution.java) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/sherlockandsquares/Solution.java) |
-|                                                              |        |                                                              |
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   15   |                        Solution.java                         |
 |                                                              |        |                                                              |
 
