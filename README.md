@@ -54,5 +54,12 @@
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/climbingtheleaderboard/Solution.java) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/thehurdlerace/Solution.java) |
 | [Design PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/designpdfviewer/Solution.java) |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) |   20   |                        Solution.java                         |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
 |                                                              |        |                                                              |
 
