@@ -68,7 +68,7 @@
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/sherlockandsquares/Solution.java) |
 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/libraryfine/Solution.java) |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) |   25   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/cutthesticks/Solution.java) |
-| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) |   20   |                        Solution.java                         |
+| [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/Nondivisiblesubset/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
