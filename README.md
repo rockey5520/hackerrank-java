@@ -5,6 +5,26 @@
     </a>
     <br>My solutions to HackerRank problems
 </p>
+
+# Data structures
+
+|                          Challenge                           | Points |                           Solution                           |
+| :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
+| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/datastructures/arrays/arraysds/Solution.java) |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+|                                                              |        |                                                              |
+
 # Interview Preparation Kit
 
 |                          Challenge                           | Points |                           Solution                           |
