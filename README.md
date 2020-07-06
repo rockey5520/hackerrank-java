@@ -11,7 +11,7 @@
 |                          Challenge                           | Points |                           Solution                           |
 | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: |
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) |   10   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/datastructures/arrays/arraysds/Solution.java) |
-|                                                              |        |                                                              |
+| [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) |   15   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/datastructures/arrays/dynamicarray/Solution.java) |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
 |                                                              |        |                                                              |
