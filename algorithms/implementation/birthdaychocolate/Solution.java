@@ -33,6 +33,6 @@ public class Solution {
 
   public static void main(String[] args) {
 
-    birthday(List.of(1, 2, 1, 3, 2), 3, 2);
+    //birthday(List.of(1, 2, 1, 3, 2), 3, 2);
   }
 }

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Solution {
+public class BirdsSolution {
 
   static int migratoryBirds(List<Integer> arr) {
     int id = 0;
@@ -29,7 +29,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-    migratoryBirds(List.of(1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4));
+    //migratoryBirds(List.of(1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4));
   }
 
 }

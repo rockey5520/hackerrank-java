@@ -11,7 +11,7 @@ public class Solution {
      */
     Integer[] list = new Integer[keyboards.length * drives.length];
     Arrays.fill(list, 0);
-    var idx = 0;
+    int idx = 0;
     for (int drive : drives) {
       for (int keyboard : keyboards) {
         if (b < drive + keyboard) {

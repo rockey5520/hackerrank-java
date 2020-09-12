@@ -19,7 +19,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-    System.out.println(pickingNumbers(List.of(1, 1, 2, 2, 4, 4, 5, 5, 5)));
+    //System.out.println(pickingNumbers(List.of(1, 1, 2, 2, 4, 4, 5, 5, 5)));
   }
 
 }

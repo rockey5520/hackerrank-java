@@ -24,7 +24,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-    compareTriplets(List.of(17, 28, 30), List.of(99, 16, 8));
+    //compareTriplets(List.of(17, 28, 30), List.of(99, 16, 8));
   }
 
 }

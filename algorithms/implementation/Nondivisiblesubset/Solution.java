@@ -30,6 +30,6 @@ public class Solution {
 
 
   public static void main(String[] args) {
-    nonDivisibleSubset(4, List.of(19, 10, 12, 10, 24, 25, 22));
+    //nonDivisibleSubset(4, List.of(19, 10, 12, 10, 24, 25, 22));
   }
 }
