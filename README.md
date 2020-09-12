@@ -91,5 +91,5 @@
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/Nondivisiblesubset/Solution.java) |                                                              |
 | [Equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) |   20   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/equalizethearray/Solution.java) |                                                              |
 | [Queen Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) |   30   | [Solution.java](https://github.com/rockey5520/hackerrank-java/blob/master/algorithms/implementation/queensattackII/QueenAttackIISolution.java) |                                                              |
-|                                                              |        |                                                              |                                                              |
+| [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) |   25   |                        Solution.java                         |                                                              |
 
